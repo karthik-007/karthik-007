@@ -37,7 +37,7 @@
 ## 📬 Get in Touch
 
 - 📧 Email: padamatakarthik9182@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/KunK](https://linkedin.com/in/KunK)  
+- 🔗 LinkedIn: [linkedin.com/in/Karthik]([https://linkedin.com/in/KunK](https://www.linkedin.com/in/karthik-padamata-5a0430280))  
 
 ---
 
