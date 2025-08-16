@@ -1,3 +1,4 @@
+![MasterHead](https://imgs.search.brave.com/JjH00PhkO4E0hwkIVmPFYL-XrlHQkGuRU6i9FI8uteo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvYWJzdHJhY3Qt/Y29kaW5nLXByb2dy/YW1taW5nLWJhbm5l/ci1iYWNrZ3JvdW5k/LXdpdGgtZGlnaXRh/bC1iaW5hcnktZGF0/YS1nZWFycy1kaWdp/dGFsLXBpeGVsc182/MTg1ODgtMTY5Ni5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA)
 <h1 align="center">Hey there! 👋 I'm Padamata Karthik</h1>
 <h3 align="center">🚀 Recent Graduate CSE'25 | Java Developer | Open Source Enthusiast</h3>
 
