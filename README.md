@@ -2,6 +2,8 @@
 <h3 align="center">🚀 Recent Graduate CSE'25 | Java Developer | Open Source Enthusiast</h3>
 
 <p align="center">
+  <img src="https://imgs.search.brave.com/LsxwI6s9UXA5Oi4Z67kwmaWGQo83Lgpq0eIpPBIJqBY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJiYXQuY29t/L2ltZy81MzE1NTEx/MC1kb3dubG9hZC1m/cmVlLTRrLXByb2dy/YW1taW5nLWphdmEu/anBn"/>
+
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&center=true&lines=Java+Developer;Aspiring+Software+Engineer;Lifelong+Learner+💡;Love+building+real-world+projects;" />
 </p>
 
